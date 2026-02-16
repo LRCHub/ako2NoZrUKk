@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Amiga mía",
+  "base_artist": "Alejandro Sanz",
+  "createdAt": "2026-02-16T20:51:55.095989Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mujer Amiga Mia",
+      "artist": "Eros Ramazzotti",
+      "has_synced": true,
+      "path": "select/01_Mujer_Amiga_Mia_Eros_Ramazzotti.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Amiga Mía",
+      "artist": "Joan Sebastian",
+      "has_synced": false,
+      "path": "select/02_Amiga_Mía_Joan_Sebastian.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Amiga Mía",
+      "artist": "Cardenales de Nuevo León",
+      "has_synced": true,
+      "path": "select/03_Amiga_Mía_Cardenales_de_Nuevo_León.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Amiga Mía (Album Version)",
+      "artist": "Cardenales de Nuevo León",
+      "has_synced": true,
+      "path": "select/04_Amiga_Mía_(Album_Version)_Cardenales_de_Nuevo_León.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Amiga Mía",
+      "artist": "Los Prisioneros",
+      "has_synced": true,
+      "path": "select/05_Amiga_Mía_Los_Prisioneros.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Amiga Mía",
+      "artist": "Los Prisioneros",
+      "has_synced": true,
+      "path": "select/06_Amiga_Mía_Los_Prisioneros.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Amiga mía (Maqueta)",
+      "artist": "Alejandro Sanz",
+      "has_synced": true,
+      "path": "select/07_Amiga_mía_(Maqueta)_Alejandro_Sanz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Amiga mía",
+      "artist": "Alejandro Sanz",
+      "has_synced": true,
+      "path": "select/08_Amiga_mía_Alejandro_Sanz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Amiga mía",
+      "artist": "Alejandro Sanz",
+      "has_synced": true,
+      "path": "select/09_Amiga_mía_Alejandro_Sanz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Amiga Mia",
+      "artist": "Los Prisioneros",
+      "has_synced": true,
+      "path": "select/10_Amiga_Mia_Los_Prisioneros.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Amiga mia",
+      "artist": "Alejandro Sanz",
+      "has_synced": true,
+      "path": "select/11_Amiga_mia_Alejandro_Sanz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Amiga Mia",
+      "artist": "Jeanette",
+      "has_synced": true,
+      "path": "select/12_Amiga_Mia_Jeanette.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Amiga Mía",
+      "artist": "La Nueva Luna",
+      "has_synced": false,
+      "path": "select/13_Amiga_Mía_La_Nueva_Luna.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Amiga Mía",
+      "artist": "Vania",
+      "has_synced": false,
+      "path": "select/14_Amiga_Mía_Vania.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Amiga mía",
+      "artist": "Alejandro Sanz",
+      "has_synced": false,
+      "path": "select/pl_01_Amiga_mía_Alejandro_Sanz.txt"
+    }
+  ]
+}
